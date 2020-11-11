@@ -7,3 +7,7 @@ BitCoin: 3Gj49JGVPXjw3994bSebQNrHsFJkZE9iRg &&
 Etherium: 0x08b57537943BBb6A527C9c861E9550D9Be9f7729
 
 Thank you all for reading!
+
+# Update
+
+I have indeed found the Linux version as well and have submitted it.  If you'd like to check out either shell script, they are located in this directory.
